@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TextIndexerTrie\\x64\\Debug\\AVLDictionary.obj",
+            "outputs": [
+                "TextIndexerTrie\\x64\\Debug\\AVLDictionary.h.obj.dt.module.json",
+                "TextIndexerTrie\\x64\\Debug\\AVLDictionary.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
